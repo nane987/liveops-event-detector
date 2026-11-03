@@ -1,9 +1,9 @@
-anthropic
-fastapi
-uvicorn
-python-multipart
+torch
+transformers
+pillow
 pandas
 scikit-learn
 matplotlib
-pillow
-python-dotenv
+fastapi
+uvicorn
+python-multipart
