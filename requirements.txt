@@ -1,0 +1,9 @@
+anthropic
+fastapi
+uvicorn
+python-multipart
+pandas
+scikit-learn
+matplotlib
+pillow
+python-dotenv
